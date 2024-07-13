@@ -1,0 +1,207 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "titulo": "Front-end vs. Back-end: ¡Descubre el lado perfecto para ti! #LuchaDev",
+      "categoria": "PROGRAMACIÓN",
+      "url": "https://www.youtube.com/embed/QjOWz9avkg8",
+      "foto": "/videos/img 1.PNG",
+      "descripcion": "Comparativa entre Front-end y Back-end para ayudarte a decidir cuál es el adecuado para ti."
+    },
+    {
+      "id": "2",
+      "titulo": "¿Cómo ser un Profesional en T? Conociendo al Tech Guide",
+      "categoria": "INNOVACIÓN Y GESTIÓN",
+      "url": "https://www.youtube.com/embed/0udk1vXmwkc",
+      "foto": "/videos/img 2.PNG",
+      "descripcion": "Conoce qué significa ser un profesional en T y cómo puedes lograrlo."
+    },
+    {
+      "id": "3",
+      "titulo": "¡Domina CSS Flexbox con FlexboxFroggy! Aprende jugando en este desafío divertido",
+      "categoria": "FRONT END",
+      "url": "https://www.youtube.com/embed/MXPhyN5t0uQ",
+      "foto": "/videos/img 3.PNG",
+      "descripcion": "Aprende CSS Flexbox de una manera divertida con el juego FlexboxFroggy."
+    },
+    {
+      "id": "4",
+      "titulo": "¿Qué significa ser un Desarrollador Full Stack?",
+      "categoria": "PROGRAMACIÓN",
+      "url": "https://www.youtube.com/embed/eejIHbOk_uI",
+      "foto": "/videos/img 4.PNG",
+      "descripcion": "Explora el rol de un desarrollador Full Stack y qué habilidades necesitas."
+    },
+    {
+      "id": "5",
+      "titulo": "Como utilizar el Display block, inline, inline-block #aluramás",
+      "categoria": "FRONT END",
+      "url": "https://www.youtube.com/embed/AG2QssLpQzI",
+      "foto": "/videos/img 5.PNG",
+      "descripcion": "Aprende las diferencias entre display block, inline, y inline-block en CSS."
+    },
+    {
+      "id": "6",
+      "titulo": "Explorando el poder del Back-End en el Desarrollo Web",
+      "categoria": "BACK END",
+      "url": "https://www.youtube.com/embed/Z024LSCMqFk",
+      "foto": "/videos/img 6.PNG",
+      "descripcion": "Descubre cómo el back-end potencia el desarrollo web y qué tecnologías se utilizan."
+    },
+    {
+      "id": "7",
+      "titulo": "¿Sabes cómo organizar tu rutina de estudio? Descubre aquí | #aluramás",
+      "categoria": "INNOVACIÓN Y GESTIÓN",
+      "url": "https://www.youtube.com/embed/Nts3P35mHzE",
+      "foto": "/videos/img 7.PNG",
+      "descripcion": "Consejos y estrategias para organizar tu rutina de estudio de manera efectiva."
+    },
+    {
+      "id": "8",
+      "titulo": "Cómo evitar robo de vehículo con Inteligencia Artificial | #aluramás",
+      "categoria": "INTELIGENCIA ARTIFICIAL",
+      "url": "https://www.youtube.com/embed/5T_Q_NtNLZE",
+      "foto": "/videos/img 8.PNG",
+      "descripcion": "Explora cómo la inteligencia artificial puede ayudar a prevenir el robo de vehículos."
+    },
+    {
+      "id": "9",
+      "titulo": "Descubre el poder del Machine Learning",
+      "categoria": "INTELIGENCIA ARTIFICIAL",
+      "url": "https://www.youtube.com/embed/edS0Fhg0xyM",
+      "foto": "/videos/img 9.PNG",
+      "descripcion": "Introducción al machine learning y sus aplicaciones en diversos campos."
+    },
+    {
+      "id": "10",
+      "titulo": "Desvelando los secretos del Chat GPT: La revolución de la IA",
+      "categoria": "INTELIGENCIA ARTIFICIAL",
+      "url": "https://www.youtube.com/embed/0_y09AwR6ns",
+      "foto": "/videos/img 10.PNG",
+      "descripcion": "Un vistazo a cómo Chat GPT está revolucionando el mundo de la inteligencia artificial."
+    },
+    {
+      "id": "11",
+      "titulo": "Domina tu flujo de trabajo con Kanban: ¡La guía definitiva para la eficiencia!",
+      "categoria": "INNOVACIÓN Y GESTIÓN",
+      "url": "https://www.youtube.com/embed/ew1mwLviTWY",
+      "foto": "/videos/img 11.PNG",
+      "descripcion": "Aprende a utilizar Kanban para mejorar la eficiencia en tu flujo de trabajo."
+    },
+    {
+      "id": "12",
+      "titulo": "Empresas que aprenden | #aluramás",
+      "categoria": "INNOVACIÓN Y GESTIÓN",
+      "url": "https://www.youtube.com/embed/mwNfWRsDDWE",
+      "foto": "/videos/img 12.PNG",
+      "descripcion": "Descubre cómo las empresas pueden convertirse en organizaciones que aprenden continuamente."
+    },
+    {
+      "id": "13",
+      "titulo": "Java vs. JavaScript: ¡La Batalla de los Lenguajes de Programación! #LuchaDev",
+      "categoria": "PROGRAMACIÓN",
+      "url": "https://www.youtube.com/embed/GnztLZzd0Ew?si=wvYetXFifa6npsL2",
+      "foto": "/videos/img 13.PNG",
+      "descripcion": "Comparativa entre Java y JavaScript"
+    },
+    {
+      "id": "14",
+      "titulo": "Productividad en el trabajo remoto",
+      "categoria": "INNOVACIÓN Y GESTIÓN",
+      "url": "https://www.youtube.com/embed/AULPtYo25Lw?si=UGdKX1NSrEcQ0jfn",
+      "foto": "/videos/img 14.PNG",
+      "descripcion": "Estrategias y consejos para mantener la productividad mientras trabajas de forma remota."
+    },
+    {
+      "id": "15",
+      "titulo": "¿Cuáles son las principales áreas de la programación?",
+      "categoria": "PROGRAMACIÓN",
+      "url": "https://www.youtube.com/embed/03cxUlwLVt4?si=zVCUQNO-eS2RZQTO",
+      "foto": "/videos/img 15.PNG",
+      "descripcion": "Exploración de las diferentes áreas de la programación y sus aplicaciones."
+    },
+    {
+      "id": "16",
+      "titulo": "Conoce a Luri: Nuestra Inteligencia Artificial impulsada por ChatGPT",
+      "categoria": "INTELIGENCIA ARTIFICIAL",
+      "url": "https://www.youtube.com/embed/cfvFBAB9TIE?si=Gtnu1tqW6Ivk5cCM",
+      "foto": "/videos/img 16.PNG",
+      "descripcion": "Conoce a Luri: Nuestra Inteligencia Artificial impulsada por ChatGPT"
+    },
+    {
+      "id": "17",
+      "titulo": "¿Qué Es Spring Framework?",
+      "categoria": "BACK END",
+      "url": "https://www.youtube.com/embed/FqztWwPIrKo?si=Er5uJD2rOV7tILGM",
+      "foto": "/videos/img 17.PNG",
+      "descripcion": "Adentrándonos en Spring Framework"
+    },
+    {
+      "id": "19",
+      "titulo": "¿Qué es JavaScript?",
+      "categoria": "FRONT END",
+      "url": "https://www.youtube.com/embed/GJfOSoaXk4s?si=Sy4rvrikw1n4x2-o",
+      "foto": "/videos/img 19.PNG",
+      "descripcion": "Introducción a JavaScript y su evolución."
+    },
+    {
+      "id": "21",
+      "titulo": "Spring Framework. ¿Qué es ?",
+      "categoria": "BACK END",
+      "url": "https://www.youtube.com/embed/PztCEdIJITY?si=hfEWd-LVzlUvP_qT",
+      "foto": "/videos/img 21.PNG",
+      "descripcion": "Introducción al Spring Framework y sus beneficios.",
+      "urlVideo": "https://www.youtube.com/embed/PztCEdIJITY?si=hfEWd-LVzlUvP_qT"
+    },
+    {
+      "id": "29",
+      "titulo": "Cuándo usar let, var y const?",
+      "categoria": "FRONT END",
+      "url": "https://www.youtube.com/embed/PztCEdIJITY?si=hfEWd-LVzlUvP_qT",
+      "foto": "https://i.ytimg.com/vi/PztCEdIJITY/maxresdefault.jpg",
+      "descripcion": "Diferencias y usos de let, var y const en JavaScript."
+    }
+  ],
+  "categorias": [
+    {
+      "id": "1",
+      "nombre": "FRONT END",
+      "colorPrimario": "#6BD1FF"
+    },
+    {
+      "id": "2",
+      "nombre": "BACK END",
+      "colorPrimario": "#00C86F"
+    },
+    {
+      "id": "3",
+      "nombre": "PROGRAMACIÓN",
+      "colorPrimario": "#FF8C2A"
+    },
+    {
+      "id": "4",
+      "nombre": "INNOVACIÓN Y GESTIÓN",
+      "colorPrimario": "#FF5B5B"
+    },
+    {
+      "id": "5",
+      "nombre": "INTELIGENCIA ARTIFICIAL",
+      "colorPrimario": "#9A86FF"
+    },
+    {
+      "id": "956c5cd8-16a3-48bf-a606-a92e26973a9a",
+      "nombre": "DEVOPS",
+      "colorPrimario": "#be22d3"
+    }
+  ],
+  "destacados": [
+    {
+      "id": "16",
+      "titulo": "Conoce a Luri: Nuestra Inteligencia Artificial impulsada por ChatGPT",
+      "categoria": "INTELIGENCIA ARTIFICIAL",
+      "url": "https://www.youtube.com/embed/cfvFBAB9TIE?si=Gtnu1tqW6Ivk5cCM",
+      "foto": "/videos/img 16.PNG",
+      "descripcion": "Conoce a Luri: Nuestra Inteligencia Artificial impulsada por ChatGPT"
+    }
+  ]
+}

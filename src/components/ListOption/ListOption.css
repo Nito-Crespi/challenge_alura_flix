@@ -1,0 +1,31 @@
+.list-option label {
+  display: block;
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 8px;
+  color: #fff;
+}
+
+.list-option select {
+  width: 100%;
+  background-color: transparent;
+  box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.06);
+  padding: 24px;
+  border: 3px solid var(--color-blue-light);
+  outline-color: var(--color-blue-light);
+  font-size: 16px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  color: #fff;
+}
+
+.list-option select option {
+  background-color: #fff;
+  color: #333;
+}
+
+.list-option .error {
+  color: red;
+  font-size: 12px;
+  margin-top: 5px;
+}

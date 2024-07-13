@@ -1,0 +1,29 @@
+.registry-video-form {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 80px 50px;
+  flex-wrap: wrap;
+  gap: 20px;
+  width: 75%;
+}
+
+.registry-video-form form {
+  background-color: var(--color-bg-edit);
+  box-shadow: 7px 7px 15px rgba(0, 0, 0, 25%);
+  border-radius: 20px;
+  padding: 8px 100px;
+  flex: 1;
+}
+
+.registry-video-form h2 {
+  font-size: 32px;
+  font-weight: 400;
+  text-align: center;
+  color: var(--color-blue-light);
+}
+
+.registry-video-bot {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}

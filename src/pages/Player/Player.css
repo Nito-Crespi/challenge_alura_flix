@@ -1,0 +1,43 @@
+iframe {
+  width: 100%;
+  height: 60vh;
+}
+
+.player-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1rem;
+}
+
+.player-text {
+  margin-bottom: 1rem;
+}
+
+.player-sub-text {
+  text-align: center;
+  color: var(--color-blue-light);
+  font-size: 18px;
+}
+
+@media screen and (min-width: 768px) {
+  iframe {
+    height: 70vh;
+  }
+  .player-sub-text {
+    font-size: 22px;
+  }
+
+  .player-container {
+    padding: 1rem 10%;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  iframe {
+    height: 80vh;
+  }
+  .player-sub-text {
+    font-size: 26px;
+  }
+}
